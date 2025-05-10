@@ -1,0 +1,101 @@
+Age,Gender,Blood_Pressure,Cholesterol,Diabetes,Heart_Rate,Symptom1,Symptom2,Disease
+45,Male,High,High,Yes,98,Fever,Cough,Flu
+30,Female,Normal,Normal,No,88,Headache,Nausea,Migraine
+60,Male,High,High,Yes,110,Chest Pain,Shortness of Breath,Heart Disease
+25,Female,Low,Normal,No,72,Runny Nose,Sneezing,Common Cold
+50,Male,Normal,High,Yes,100,Blurred Vision,Fatigue,Diabetes
+40,Female,Normal,Normal,No,76,Fever,Body Ache,Dengue
+35,Male,High,High,Yes,104,Chest Tightness,Dizziness,Hypertension
+28,Female,Normal,Low,No,85,Skin Rash,Itching,Allergy
+55,Male,High,High,Yes,120,Shortness of Breath,Swelling,Heart Failure
+33,Female,Normal,Normal,No,90,Sore Throat,Fever,Tonsillitis
+65,Female,Low,Normal,No,115,Blurred Vision,Fever,Flu
+60,Female,High,High,No,90,Chest Pain,Shortness of Breath,Flu
+48,Male,High,Normal,No,84,Cough,Chest Pain,Hypertension
+48,Female,Low,Normal,Yes,76,Shortness of Breath,Body Ache,Flu
+27,Male,Low,High,No,93,Runny Nose,Fever,Hypertension
+44,Female,Normal,Normal,No,68,Fatigue,Chest Tightness,Migraine
+47,Male,High,Low,No,111,Swelling,Skin Rash,Heart Disease
+33,Female,Low,High,No,101,Fever,Fatigue,Common Cold
+33,Female,Normal,Normal,No,126,Fever,Shortness of Breath,Heart Disease
+49,Female,High,Low,No,112,Runny Nose,Body Ache,Heart Disease
+29,Male,Normal,High,No,109,Skin Rash,Cough,Migraine
+66,Male,Normal,Normal,No,119,Cough,Headache,Heart Disease
+52,Male,Normal,Low,Yes,123,Headache,Shortness of Breath,Allergy
+67,Male,Normal,High,No,62,Headache,Fatigue,Heart Failure
+48,Female,High,Normal,Yes,123,Body Ache,Fever,Dengue
+67,Male,High,Normal,No,104,Sore Throat,Headache,Allergy
+29,Female,High,High,Yes,84,Runny Nose,Cough,Dengue
+57,Female,High,Low,No,76,Fatigue,Fever,Migraine
+33,Female,Normal,Normal,No,84,Itching,Blurred Vision,Heart Failure
+34,Female,Low,Normal,Yes,80,Fever,Cough,Heart Disease
+62,Female,High,Low,No,99,Headache,Chest Tightness,Diabetes
+43,Male,Normal,Normal,Yes,61,Fever,Fever,Diabetes
+31,Female,Low,Normal,Yes,123,Runny Nose,Itching,Tonsillitis
+53,Male,High,High,No,95,Sneezing,Itching,Heart Disease
+49,Male,Normal,Normal,No,128,Chest Tightness,Nausea,Tonsillitis
+60,Male,Normal,High,Yes,109,Sneezing,Fever,Common Cold
+69,Male,Low,Normal,No,104,Chest Pain,Skin Rash,Heart Disease
+65,Female,Low,High,No,103,Headache,Fatigue,Heart Failure
+50,Male,Low,Normal,No,71,Runny Nose,Sore Throat,Hypertension
+61,Female,High,Low,No,64,Shortness of Breath,Shortness of Breath,Diabetes
+22,Male,Normal,High,Yes,125,Headache,Nausea,Allergy
+30,Female,Normal,Normal,Yes,101,Dizziness,Chest Pain,Allergy
+29,Female,Low,High,Yes,107,Headache,Shortness of Breath,Heart Disease
+33,Male,Normal,Low,No,85,Chest Tightness,Itching,Migraine
+29,Female,Normal,Normal,No,65,Sore Throat,Blurred Vision,Allergy
+52,Male,Normal,Low,No,67,Headache,Shortness of Breath,Heart Disease
+38,Male,Normal,High,Yes,113,Chest Tightness,Body Ache,Allergy
+51,Female,Low,Low,No,106,Shortness of Breath,Sore Throat,Flu
+64,Male,High,Low,No,107,Cough,Fever,Common Cold
+28,Male,Normal,Low,No,67,Body Ache,Sneezing,Common Cold
+59,Male,Low,Low,Yes,75,Blurred Vision,Fatigue,Flu
+44,Female,High,High,Yes,70,Chest Tightness,Fatigue,Dengue
+27,Female,Low,Low,Yes,91,Shortness of Breath,Shortness of Breath,Migraine
+32,Female,High,Low,Yes,126,Nausea,Swelling,Migraine
+38,Female,High,Low,Yes,72,Headache,Itching,Common Cold
+39,Male,High,High,No,95,Chest Pain,Sneezing,Hypertension
+65,Male,Low,High,Yes,95,Sneezing,Fever,Allergy
+66,Male,Normal,Normal,Yes,109,Fever,Swelling,Flu
+35,Male,High,Low,Yes,86,Fever,Swelling,Hypertension
+54,Male,Low,Low,Yes,122,Body Ache,Blurred Vision,Common Cold
+43,Female,Normal,High,No,105,Shortness of Breath,Nausea,Dengue
+22,Male,High,High,Yes,79,Itching,Chest Pain,Tonsillitis
+32,Female,High,Normal,Yes,118,Swelling,Fever,Hypertension
+34,Female,High,Normal,Yes,62,Body Ache,Runny Nose,Heart Disease
+62,Male,Low,Low,No,87,Nausea,Sore Throat,Allergy
+55,Female,High,Low,No,93,Blurred Vision,Blurred Vision,Common Cold
+21,Male,Low,High,No,112,Sneezing,Fatigue,Dengue
+38,Female,Normal,High,No,121,Headache,Blurred Vision,Tonsillitis
+26,Male,High,Normal,No,109,Shortness of Breath,Nausea,Tonsillitis
+47,Male,High,Normal,Yes,105,Fever,Nausea,Tonsillitis
+25,Male,High,High,Yes,64,Shortness of Breath,Fatigue,Dengue
+52,Male,Low,Normal,No,130,Itching,Headache,Dengue
+54,Female,Low,Low,Yes,110,Fatigue,Cough,Heart Failure
+58,Male,Low,Normal,Yes,73,Runny Nose,Itching,Allergy
+66,Female,Low,Normal,Yes,114,Fever,Fever,Flu
+61,Female,High,Low,Yes,102,Chest Pain,Fever,Heart Disease
+38,Male,Normal,Normal,Yes,95,Itching,Fever,Dengue
+29,Female,High,High,Yes,129,Fever,Runny Nose,Heart Failure
+56,Male,High,Low,Yes,88,Body Ache,Skin Rash,Hypertension
+62,Male,Normal,Low,Yes,126,Dizziness,Itching,Flu
+41,Male,Normal,High,No,128,Sore Throat,Cough,Heart Failure
+64,Female,Normal,Normal,Yes,107,Skin Rash,Sore Throat,Allergy
+32,Male,Low,Normal,No,123,Runny Nose,Swelling,Heart Failure
+52,Female,High,Low,No,130,Sneezing,Body Ache,Diabetes
+58,Female,High,Normal,No,81,Sneezing,Sore Throat,Migraine
+48,Female,High,Low,No,99,Swelling,Runny Nose,Hypertension
+51,Female,High,High,No,64,Sneezing,Fatigue,Allergy
+25,Male,High,High,Yes,117,Cough,Skin Rash,Common Cold
+69,Male,Normal,Normal,Yes,105,Sore Throat,Swelling,Flu
+30,Female,Normal,High,No,81,Skin Rash,Shortness of Breath,Migraine
+68,Female,Low,Low,No,89,Runny Nose,Fever,Hypertension
+50,Male,Low,High,No,67,Sneezing,Skin Rash,Diabetes
+65,Male,Low,High,Yes,108,Fever,Chest Tightness,Dengue
+20,Male,Low,Low,No,119,Blurred Vision,Swelling,Heart Disease
+70,Female,Normal,High,Yes,95,Sore Throat,Cough,Dengue
+26,Male,Normal,Normal,No,83,Cough,Shortness of Breath,Heart Disease
+64,Female,Low,High,No,93,Itching,Dizziness,Diabetes
+32,Male,Low,Low,No,104,Body Ache,Skin Rash,Allergy
+65,Male,Normal,High,No,101,Cough,Blurred Vision,Heart Disease
+34,Female,Low,Normal,No,62,Fever,Cough,Dengue
